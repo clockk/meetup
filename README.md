@@ -49,3 +49,11 @@
 
 1. [NestJS 오픈카톡방](https://open.kakao.com/o/ggLiN79c)에서 **@kakasoo** 태그
 2. [LinkedIn DM](http://www.linkedin.com/in/kakasoo)
+
+### 📷 사진
+
+**모임 장소**
+
+![place3](./public/250513/place3.jpg)
+| ![place1](./public/250513/place1.jpg) | ![place2](./public/250513/place2.jpg) |  
+| ------------------------------------- | ------------------------------------- |
