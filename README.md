@@ -45,6 +45,18 @@ _만약 못한 질문이 있으시다면 자유 네트워킹 시간을 통해 �
 
 - [런치랩](https://www.lunchlab.me/)에서 식사를 후원해주십니다!
 - [뤼튼 테크놀로지스](https://wrtn.io/)에서 모임 운영 비용 일부를 후원해주십니다!
+- [Jpub](http://jpub.tistory.com/)에서 책을 후원해주십니다!
+
+    <details>
+    <summary>후원 도서 리스트</summary>
+
+    | 후원사 | 도서명 | 
+    ---|---
+    | Jpub | [헬로 Bun](https://jpub.tistory.com/468783) |
+    | Jpub | [NestJS로 배우는 백엔드 프로그래밍](https://jpub.tistory.com/1352) |
+    | Jpub | [대규모 리액트 웹 앱 개발](https://jpub.tistory.com/468819) |
+
+    </details>
 
 그 외, 여러 회사에 연락을 취하고 있는데요,  
 아직 모임 운영이 초보지만 어떤 곳이든 저희와 협업 기회가 있다면 편히 연락 주시면 감사하겠습니다!
