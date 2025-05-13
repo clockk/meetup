@@ -85,4 +85,4 @@ _만약 못한 질문이 있으시다면 자유 네트워킹 시간을 통해 �
 
 `,` 기호를 통해 이름을 쭉 이어 작성 부탁드립니다.
 
-[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919)
+[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [dongmin](https://github.com/MoonDongmin)
