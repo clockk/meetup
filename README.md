@@ -29,4 +29,4 @@
 
 `,` 기호를 통해 이름을 쭉 이어 작성 부탁드립니다.
 
-[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [jaeyoung](https://github.com/Yu-Jaeyoung), [dongmin](https://github.com/MoonDongmin), [dc-choi](https://github.com/dc-choi), [iamkanguk97](https://github.com/iamkanguk97)
+[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [jaeyoung](https://github.com/Yu-Jaeyoung), [dongmin](https://github.com/MoonDongmin), [dc-choi](https://github.com/dc-choi), [LimMinKyo](https://github.com/LimMinKyo), [iamkanguk97](https://github.com/iamkanguk97)
