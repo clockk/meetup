@@ -1,6 +1,6 @@
 # meetup
 
-![logo](./public/logo/banner.png)
+![logo](../logo/banner.png)
 
 ## 🧪 TypeScript 백엔드 개발자 모임 - 1회차 소개
 
