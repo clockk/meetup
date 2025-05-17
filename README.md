@@ -2,6 +2,9 @@
 
 ![logo](./public/logo/banner.png)
 
+## 이전 모임 소개
+- [2025년 5월 모임](./public/2505/README.md)
+
 ## 🧑‍💻 모임의 목적은?
 
 이번 모임은 **TypeScript 기반 백엔드 개발자**들의 커리어 성장과 네트워킹을 위한 자리입니다.  
@@ -30,4 +33,4 @@
 `,` 기호를 통해 이름을 쭉 이어 작성 부탁드립니다.
 
 [kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [jaeyoung](https://github.com/Yu-Jaeyoung), [dongmin](https://github.com/MoonDongmin), [dc-choi](https://github.com/dc-choi), [LimMinKyo](https://github.com/LimMinKyo), [iamkanguk97](https://github.com/iamkanguk97), [chobkyu](https://github.com/chobkyu), [drakejin](https://github.com/drakejin), [mag123c](https://github.com/mag123c), [Hyunstone](https://github.com/Hyunstone), [morpheus1991](https://github.com/morpheus1991), [mag123c](https://github.com/mag123c), [yeophs](https://github.com/yeophs), [juhui-jeong](https://github.com/juhui-jeong), [Myungsub0519](https://github.com/Myungsub0519), [funfungun](https://github.com/funfungun), [kukjun](https://github.com/kukjun), [heozeop](https://github.com/heozeop)
-, [windofwind](https://github.com/windofwind), [Deb-neal](https://github.com/Deb-neal), [KimBongJun](https://github.com/Brazen-Story/), [monam2](https://github.com/monam2), [kil-penguin](https://github.com/kilhyeonjun), [anonymousRecords](https://github.com/anonymousRecords)
+, [windofwind](https://github.com/windofwind), [Deb-neal](https://github.com/Deb-neal), [KimBongJun](https://github.com/Brazen-Story/), [monam2](https://github.com/monam2), [kil-penguin](https://github.com/kilhyeonjun), [anonymousRecords](https://github.com/anonymousRecords), [SJY0917032](https://github.com/SJY0917032)
