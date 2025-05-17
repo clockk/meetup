@@ -70,19 +70,3 @@ _만약 못한 질문이 있으시다면 자유 네트워킹 시간을 통해 �
 
 1. [NestJS 오픈카톡방](https://open.kakao.com/o/ggLiN79c)에서 **@kakasoo** 태그
 2. [LinkedIn DM](http://www.linkedin.com/in/kakasoo)
-
-## 🧑‍💻 역대 참가자
-
-참가하신 날짜에 맞게 PR을 날려주시면 해당 날짜 이후에 명단을 확인하고 Merge 하겠습니다.
-
-### 2025년 5월 운영진
-
-운영에 단 1분이라도 도움을 주신 모든 분들을 기록합니다.
-
-[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [luke0408](https://github.com/luke0408), [emily](https://github.com/emily-uiux)
-
-### 2025년 5월 참가자
-
-`,` 기호를 통해 이름을 쭉 이어 작성 부탁드립니다.
-
-[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [jaeyoung](https://github.com/Yu-Jaeyoung), [dc-choi](https://github.com/dc-choi)
