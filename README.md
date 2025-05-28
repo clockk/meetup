@@ -59,7 +59,7 @@
 
 운영에 단 1분이라도 도움을 주신 모든 분들을 기록합니다.
 
-[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [luke0408](https://github.com/luke0408), [emily](https://github.com/emily-uiux), [sunrabbit123](https://github.com/sunrabbit123), [bkdragon0228](https://github.com/bkdragon0228) [ltnscp9028](https://github.com/ltnscp9028)
+[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [luke0408](https://github.com/luke0408), [emily](https://github.com/emily-uiux), [sunrabbit123](https://github.com/sunrabbit123), [bkdragon0228](https://github.com/bkdragon0228), [ltnscp9028](https://github.com/ltnscp9028)
 
 ### 참가자
 
