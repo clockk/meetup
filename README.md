@@ -28,6 +28,7 @@
 | 17:00         | 모임 종료 겸 마무리                                                                        |                    |                                                                                              |
 
 ## 🏢 후원사
+> 후원을 원하시는 모든 분들은 [이곳](./CONTIBUTING.md)을 읽어주세요.
 
 - [AWS(Amazon Web Services)](https://aws.amazon.com/)에서 장소를 대관해주셨습니다!
 - [뤼튼 테크놀로지스](https://wrtn.io/)에서 모임 비용 일부 (다과 비용)을 후원해주십니다.
