@@ -17,7 +17,7 @@
 | 12:30 - 13:00 | 입장 안내 & 크라이치즈버거 다과 증정!                                                      | TSBM               |
 | 13:00 - 13:30 | 모임 소개 & 후원사 소개                                                                    | TSBM               |
 | 13:30 - 13:40 | 모임 시작                                                                                  |                    | 모임 안내 & 후원사 소개                                                                      |
-| 13:40 - 14:10 | session1 - [조용진](https://www.linkedin.com/in/drakejin/)님                               | 썬데이타이쿤       | 테라폼 / AWS 관련 (주제 미정)                                                                |
+| 13:40 - 14:10 | session1 - [조용진](https://www.linkedin.com/in/drakejin/)님                               | 썬데이타이쿤       | AWSome IaC (테라폼/ AWS 관련)                                                                |
 | 14:10 - 14:20 | 질의응답                                                                                   |                    |                                                                                              |
 | 14:20 - 14:50 | session2 - [이정현](https://www.linkedin.com/in/%EC%A0%95%ED%98%84-%EC%9D%B4-8b2655211/)님 | ㈜비바리퍼블리카   | 웹소켓 실시간 편집 구현 방식 및 시스템 전반적인 구조                                         |
 | 15:00 - 15:10 | 질의응답                                                                                   |                    |                                                                                              |
@@ -28,6 +28,7 @@
 | 17:00         | 모임 종료 겸 마무리                                                                        |                    |                                                                                              |
 
 ## 🏢 후원사
+> 후원을 원하시는 모든 분들은 [이곳](./CONTIBUTING.md)을 읽어주세요.
 
 - [AWS(Amazon Web Services)](https://aws.amazon.com/)에서 장소를 대관해주셨습니다!
 - [뤼튼 테크놀로지스](https://wrtn.io/)에서 모임 비용 일부 (다과 비용)을 후원해주십니다.
@@ -83,10 +84,9 @@
 
 ### 참가자
 
-- 2025년 5월: 90명
+- 2025년 5월: 90/100명
+- 2025년 6월: ?/120명
 
 `,` 기호를 통해 이름을 쭉 이어 작성 부탁드립니다.
 
-[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [jaeyoung](https://github.com/Yu-Jaeyoung), [dongmin](https://github.com/MoonDongmin), [dc-choi](https://github.com/dc-choi), [LimMinKyo](https://github.com/LimMinKyo), [iamkanguk97](https://github.com/iamkanguk97), [chobkyu](https://github.com/chobkyu), [drakejin](https://github.com/drakejin), [mag123c](https://github.com/mag123c), [Hyunstone](https://github.com/Hyunstone), [morpheus1991](https://github.com/morpheus1991), [mag123c](https://github.com/mag123c), [yeophs](https://github.com/yeophs), [juhui-jeong](https://github.com/juhui-jeong), [Myungsub0519](https://github.com/Myungsub0519), [funfungun](https://github.com/funfungun), [kukjun](https://github.com/kukjun), [heozeop](https://github.com/heozeop)
-, [windofwind](https://github.com/windofwind), [Deb-neal](https://github.com/Deb-neal), [KimBongJun](https://github.com/Brazen-Story/), [monam2](https://github.com/monam2), [kil-penguin](https://github.com/kilhyeonjun), [anonymousRecords](https://github.com/anonymousRecords), [SJY0917032](https://github.com/SJY0917032), [samchon](https://github.com/samchon), [ltnscp9028](https://github.com/ltnscp9028), [rimo030](https://github.com/rimo030)
-, [imagine97kim](https://github.com/imagine97kim), [Lujaec](https://github.com/Lujaec), [jochongs](https://github.com/jochongs), [MoonDongmin](https://github.com/MoonDongmin), [jikky](https://github.com/jjikky), [itstimi-XD](https://github.com/itstimi-XD)
+[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [jaeyoung](https://github.com/Yu-Jaeyoung), [dongmin](https://github.com/MoonDongmin), [dc-choi](https://github.com/dc-choi), [LimMinKyo](https://github.com/LimMinKyo), [iamkanguk97](https://github.com/iamkanguk97), [chobkyu](https://github.com/chobkyu), [drakejin](https://github.com/drakejin), [mag123c](https://github.com/mag123c), [Hyunstone](https://github.com/Hyunstone), [morpheus1991](https://github.com/morpheus1991), [mag123c](https://github.com/mag123c), [yeophs](https://github.com/yeophs), [juhui-jeong](https://github.com/juhui-jeong), [Myungsub0519](https://github.com/Myungsub0519), [funfungun](https://github.com/funfungun), [kukjun](https://github.com/kukjun), [heozeop](https://github.com/heozeop), [windofwind](https://github.com/windofwind), [Deb-neal](https://github.com/Deb-neal), [KimBongJun](https://github.com/Brazen-Story/), [monam2](https://github.com/monam2), [kil-penguin](https://github.com/kilhyeonjun), [anonymousRecords](https://github.com/anonymousRecords), [SJY0917032](https://github.com/SJY0917032), [samchon](https://github.com/samchon), [ltnscp9028](https://github.com/ltnscp9028), [rimo030](https://github.com/rimo030), [imagine97kim](https://github.com/imagine97kim), [Lujaec](https://github.com/Lujaec), [jochongs](https://github.com/jochongs), [MoonDongmin](https://github.com/MoonDongmin), [jikky](https://github.com/jjikky), [MoonhyoungCho](https://github.com/echo26), [jh8459](https://github.com/jh8459), [jun](https://github.com/dong-jun-shin), [KimH4nKyul](https://github.com/KimH4nKyul), [itstimi-XD](https://github.com/itstimi-XD)
