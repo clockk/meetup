@@ -46,7 +46,13 @@
 
 운영에 단 1분이라도 도움을 주신 모든 분들을 기록합니다.
 
-[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [luke0408](https://github.com/luke0408), [emily](https://github.com/emily-uiux), [sunrabbit123](https://github.com/sunrabbit123), [bkdragon0228](https://github.com/bkdragon0228), [ltnscp9028](https://github.com/ltnscp9028)
+- [kakasoo](https://github.com/kakasoo)
+- [micheal](https://github.com/8471919)
+- [luke0408](https://github.com/luke0408)
+- [emily](https://github.com/emily-uiux)
+- [sunrabbit123](https://github.com/sunrabbit123)
+- [bkdragon0228](https://github.com/bkdragon0228)
+- [ltnscp9028](https://github.com/ltnscp9028)
 
 ## 참가자
 
@@ -55,4 +61,54 @@
 
 `,` 기호를 통해 이름을 쭉 이어 작성 부탁드립니다.
 
-[kakasoo](https://github.com/kakasoo), [micheal](https://github.com/8471919), [jaeyoung](https://github.com/Yu-Jaeyoung), [dongmin](https://github.com/MoonDongmin), [dc-choi](https://github.com/dc-choi), [LimMinKyo](https://github.com/LimMinKyo), [iamkanguk97](https://github.com/iamkanguk97), [chobkyu](https://github.com/chobkyu), [drakejin](https://github.com/drakejin), [mag123c](https://github.com/mag123c), [Hyunstone](https://github.com/Hyunstone), [morpheus1991](https://github.com/morpheus1991), [mag123c](https://github.com/mag123c), [yeophs](https://github.com/yeophs), [juhui-jeong](https://github.com/juhui-jeong), [Myungsub0519](https://github.com/Myungsub0519), [funfungun](https://github.com/funfungun), [kukjun](https://github.com/kukjun), [heozeop](https://github.com/heozeop), [windofwind](https://github.com/windofwind), [Deb-neal](https://github.com/Deb-neal), [KimBongJun](https://github.com/Brazen-Story/), [monam2](https://github.com/monam2), [kil-penguin](https://github.com/kilhyeonjun), [anonymousRecords](https://github.com/anonymousRecords), [SJY0917032](https://github.com/SJY0917032), [samchon](https://github.com/samchon), [ltnscp9028](https://github.com/ltnscp9028), [rimo030](https://github.com/rimo030), [imagine97kim](https://github.com/imagine97kim), [Lujaec](https://github.com/Lujaec), [jochongs](https://github.com/jochongs), [MoonDongmin](https://github.com/MoonDongmin), [jikky](https://github.com/jjikky), [MoonhyoungCho](https://github.com/echo26), [jh8459](https://github.com/jh8459), [jun](https://github.com/dong-jun-shin), [KimH4nKyul](https://github.com/KimH4nKyul), [itstimi-XD](https://github.com/itstimi-XD), [Ssuhyeong](https://github.com/Ssuhyeong), [soonba](https://github.com/soonba), [SuperBallista](https://github.com/SuperBallista)
+[kakasoo](https://github.com/kakasoo),
+[micheal](https://github.com/8471919),
+[jaeyoung](https://github.com/Yu-Jaeyoung),
+[dongmin](https://github.com/MoonDongmin),
+[dc-choi](https://github.com/dc-choi),
+[LimMinKyo](https://github.com/LimMinKyo),
+[iamkanguk97](https://github.com/iamkanguk97),
+[chobkyu](https://github.com/chobkyu),
+[drakejin](https://github.com/drakejin),
+[mag123c](https://github.com/mag123c),
+[Hyunstone](https://github.com/Hyunstone),
+[morpheus1991](https://github.com/morpheus1991),
+[mag123c](https://github.com/mag123c),
+[yeophs](https://github.com/yeophs),
+[juhui-jeong](https://github.com/juhui-jeong),
+[Myungsub0519](https://github.com/Myungsub0519),
+[funfungun](https://github.com/funfungun),
+[kukjun](https://github.com/kukjun),
+[heozeop](https://github.com/heozeop),
+[windofwind](https://github.com/windofwind),
+[Deb-neal](https://github.com/Deb-neal),
+[KimBongJun](https://github.com/Brazen-Story),
+[monam2](https://github.com/monam2),
+[kil-penguin](https://github.com/kilhyeonjun),
+[anonymousRecords](https://github.com/anonymousRecords),
+[SJY0917032](https://github.com/SJY0917032),
+[samchon](https://github.com/samchon),
+[ltnscp9028](https://github.com/ltnscp9028),
+[rimo030](https://github.com/rimo030),
+[imagine97kim](https://github.com/imagine97kim),
+[Lujaec](https://github.com/Lujaec),
+[jochongs](https://github.com/jochongs),
+[MoonDongmin](https://github.com/MoonDongmin),
+[jikky](https://github.com/jjikky),
+[MoonhyoungCho](https://github.com/echo26),
+[jh8459](https://github.com/jh8459),
+[jun](https://github.com/dong-jun-shin),
+[KimH4nKyul](https://github.com/KimH4nKyul),
+[itstimi-XD](https://github.com/itstimi-XD),
+[Ssuhyeong](https://github.com/Ssuhyeong),
+[soonba](https://github.com/soonba),
+[SuperBallista](https://github.com/SuperBallista),
+[verycosy](https://github.com/verycosy),
+[dokdo2013](https://github.com/dokdo2013),
+[dongseonyoo](https://github.com/dongseonyoo),
+[realbig4199](https://github.com/realbig4199),
+[Hyeongyu-619](https://github.com/Hyeongyu-619),
+[smileleft](https://github.com/smileleft),
+[do-not-do-that](https://github.com/do-not-do-that),
+[hyeb-in](https://github.com/hyeb-in),
+[anxi0](https://github.com/anxi0),
