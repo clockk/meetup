@@ -30,8 +30,9 @@
 
 궁금하신 점이 있으시다면 아래 채널 중 편한 곳으로 연락 주세요!
 
-1. [NestJS 오픈카톡방](https://open.kakao.com/o/ggLiN79c)에서 **@kakasoo** 태그
-2. [LinkedIn DM](http://www.linkedin.com/in/kakasoo)
+1. [TSBM 공지 오픈카톡방](https://open.kakao.com/o/gKXJtxEh)
+2. [NestJS 오픈카톡방](https://open.kakao.com/o/ggLiN79c)에서 **@kakasoo** 태그
+3. [LinkedIn DM](http://www.linkedin.com/in/kakasoo)
 
 # 이전 모임 소개
 
