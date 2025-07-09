@@ -24,7 +24,7 @@
 
 # 📺 공식 유튜브 채널
 
-[Typescript Backend Meepup 공식 유튜브 채널](https://youtube.com/@typescriptbackend)
+[Typescript Backend Meetup 공식 유튜브 채널](https://youtube.com/@typescriptbackend)
 
 # 💬 문의 및 소통 채널
 
