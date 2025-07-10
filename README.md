@@ -20,7 +20,7 @@
 | 18:00 - 19:00 | 세팅 및 준비                                                                |            |                             |      |
 | 19:00 - 19:30 | session1 - [김범서](https://github.com/TigerWest)님                         | 퓨처스콜레 | 해보지 않겠나 DDD..?        |      |
 | 19:30 - 19:40 | 질의응답                                                                    |            |                             |      |
-| 19:40 - 20:10 | session2 - [최성국](https://www.linkedin.com/in/seongguk-choi-297b2a172/)님 | 아임웹     | MSA 워크플로우/자동화       |      |
+| 19:40 - 20:10 | session2 - [최성국](https://www.linkedin.com/in/seongguk-choi-297b2a172/)님 | 아임웹     | 생산성 높은 MSA 환경 구성하기       |      |
 | 20:10 - 20:20 | 질의응답                                                                    |            |                             |      |
 | 20:20 - 20:50 | session3 - [김현우](https://www.linkedin.com/in/coalery/)님                 | 모두싸인   | NestJS 의존성 주입 딥다이브 |      |
 | 20:50 - 21:00 | 질의응답                                                                    |            |                             |      |
