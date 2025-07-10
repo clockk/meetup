@@ -30,6 +30,7 @@
 > 후원을 원하시는 모든 분들은 [이곳](https://github.com/ts-backend-meetup-ts/meetup/blob/main/CONTRIBUTING.md)을 읽어주세요.
 
 - **토스** 에서 장소를 대관해주셨습니다!
+- **뤼튼** 에서 발표자들을 위한 소정의 선물을 주셨습니다!
 
 <table>
   <tr>
