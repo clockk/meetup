@@ -1,6 +1,6 @@
 # meetup
 
-![logo](./public/logo/banner.png)
+![logo](../logo/banner.png)
 
 # 2025년 6월 모임 소개
 
