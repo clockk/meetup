@@ -42,7 +42,7 @@
     <td align="center">
       <img src="./public//logo/wrtn.png" alt="Wrtn 로고" width="200"/><br/>
     <td align="center">
-      <img src="./public//logo/jpub.png" alt="Jpub 로고" width="200"/><br/>
+      <img src="./public//logo/jpub_2.png" alt="Jpub 로고" width="200"/><br/>
     </td>
 
   </tr>
