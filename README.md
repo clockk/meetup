@@ -33,16 +33,20 @@
 - **토스** 에서 장소를 대관해주셨습니다!
 - **뤼튼** 에서 발표자들을 위한 소정의 선물을 주셨습니다!
 - **제이펍** 에서 청중들을 위한 도서를 후원해주셨습니다.
+- **한빛미디어** 에서 청중들을 위한 도서를 후원해주셨습니다.
 
 <table>
   <tr>
     <td align="center">
-      <img src="./public//logo/toss.png" alt="Toss 로고" width="200"/><br/>
+      <img src="./public/logo/toss.png" alt="Toss 로고" width="200"/><br/>
     </td>
     <td align="center">
-      <img src="./public//logo/wrtn.png" alt="Wrtn 로고" width="200"/><br/>
+      <img src="./public/logo/wrtn.png" alt="Wrtn 로고" width="200"/><br/>
     <td align="center">
-      <img src="./public//logo/jpub_2.png" alt="Jpub 로고" width="200"/><br/>
+      <img src="./public/logo/jpub_2.png" alt="Jpub 로고" width="200"/><br/>
+    </td>
+    <td align="center">
+      <img src="./public/logo/Hanbit.png" alt="한빛미디어 로고" width="200"/><br/>
     </td>
 
   </tr>
