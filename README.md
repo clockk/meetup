@@ -46,7 +46,7 @@
       <img src="./public/logo/jpub_2.png" alt="Jpub 로고" width="200"/><br/>
     </td>
     <td align="center">
-      <img src="./public/logo/Hanbit.png" alt="한빛미디어 로고" width="200"/><br/>
+      <img src="./public/logo/hanbit.png" alt="한빛미디어 로고" width="200"/><br/>
     </td>
 
   </tr>
