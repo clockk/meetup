@@ -136,7 +136,7 @@
 [samchon](https://github.com/samchon),
 [ltnscp9028](https://github.com/ltnscp9028),
 [rimo030](https://github.com/rimo030),
-[imagine97kim](https://github.com/imagine97kim),
+[imagine-k](https://github.com/imagine-k),
 [Lujaec](https://github.com/Lujaec),
 [jochongs](https://github.com/jochongs),
 [MoonDongmin](https://github.com/MoonDongmin),
