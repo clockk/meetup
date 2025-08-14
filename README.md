@@ -154,7 +154,8 @@
 [seungwanHam](https://github.com/seungwanHam),
 [NARUBROWN](https://github.com/NARUBROWN),
 [OvCO4](https://github.com/OvCO4),
-[GGAANGTONG](https://github.com/GGAANGTONG)
+[GGAANGTONG](https://github.com/GGAANGTONG),
+[kanade012](https://github.com/kanade012)
 
 다음처럼 간결하고 공손한 FAQ 버전으로 정리했습니다.
 
