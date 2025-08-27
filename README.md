@@ -40,6 +40,16 @@
 > 후원을 원하시는 모든 분들은 [이곳](https://github.com/ts-backend-meetup-ts/meetup/blob/main/CONTRIBUTING.md)을 읽어주세요.
 
 - **당근** 에서 장소를 대관해주셨습니다!
+- **뤼튼** 에서 피자를 쏩니다!
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./public/logo/wrtn.png" alt="뤼튼 로고" width="200"/><br/>
+      <b>뤼튼 테크놀로지스</b>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -157,7 +167,6 @@
 [GGAANGTONG](https://github.com/GGAANGTONG),
 [kanade012](https://github.com/kanade012),
 [yeongin-ji](https://github.com/yeongin-ji)
-
 
 # FAQ
 
