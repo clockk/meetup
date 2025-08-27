@@ -171,6 +171,7 @@
 [GGAANGTONG](https://github.com/GGAANGTONG),
 [kanade012](https://github.com/kanade012),
 [yeongin-ji](https://github.com/yeongin-ji)
+[rlj1202](https://github.com/rlj1202)
 
 # FAQ
 
