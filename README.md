@@ -98,6 +98,7 @@
 - [sunrabbit123](https://github.com/sunrabbit123)
 - [bkdragon0228](https://github.com/bkdragon0228)
 - [ltnscp9028](https://github.com/ltnscp9028)
+- [blanc](https://github.com/yooseungmo)
 
 ## 참가자
 
