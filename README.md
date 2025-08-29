@@ -160,9 +160,6 @@
 <a href="https://github.com/morpheus1991" title="morpheus1991">
   <img src="https://images.weserv.nl/?url=github.com/morpheus1991.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="morpheus1991" />
 </a>
-<a href="https://github.com/mag123c" title="mag123c">
-  <img src="https://images.weserv.nl/?url=github.com/mag123c.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="mag123c" />
-</a>
 <a href="https://github.com/yeophs" title="yeophs">
   <img src="https://images.weserv.nl/?url=github.com/yeophs.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="yeophs" />
 </a>
@@ -219,9 +216,6 @@
 </a>
 <a href="https://github.com/jochongs" title="jochongs">
   <img src="https://images.weserv.nl/?url=github.com/jochongs.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="jochongs" />
-</a>
-<a href="https://github.com/MoonDongmin" title="MoonDongmin">
-  <img src="https://images.weserv.nl/?url=github.com/MoonDongmin.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="MoonDongmin" />
 </a>
 <a href="https://github.com/jjikky" title="jjikky">
   <img src="https://images.weserv.nl/?url=github.com/jjikky.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="jjikky" />
