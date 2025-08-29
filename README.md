@@ -105,6 +105,7 @@
 - 2025년 5월: 90/100명
 - 2025년 6월: ?/120명
 - 2025년 7월: ?/80명
+- 2025년 8월: 50명
 
 `,` 기호를 통해 이름을 쭉 이어 작성 부탁드립니다.
 
@@ -172,7 +173,17 @@
 [GGAANGTONG](https://github.com/GGAANGTONG),
 [kanade012](https://github.com/kanade012),
 [yeongin-ji](https://github.com/yeongin-ji),
-[rlj1202](https://github.com/rlj1202)
+[rlj1202](https://github.com/rlj1202),
+[bunzzeok](https://github.com/bunzzeok),
+[wonjun3991](https://github.com/wonjun3991),
+[kin9jon9](https://github.com/kin9jon9),
+[changchanghwang](https://github.com/changchanghwang),
+[shinseongsu](https://github.com/shinseongsu),
+[smilebank7](https://github.com/smilebank7),
+[totschka](https://github.com/totschka),
+[startdata](https://github.com/startdata),
+[daseul22](https://github.com/daseul22),
+[sungchuni](https://github.com/sungchuni)
 
 # FAQ
 
@@ -205,6 +216,14 @@
 ## Q6. 발표 자료를 미리 공유해주세요.
 
 발표자의 준비 상황을 존중해 당일 전까지 요청하지 않습니다. 다만 발표자가 사전에 제공할 경우, 미리 공유해드리겠습니다.
+
+## Q7. 모임 영상은 언제 올라가나요?
+
+모임 후 영상 편집에 시간이 걸려서 보통 2-3주 내로 올라갑니다! 운영진 모두 현업자이기 떄문에 조금 오래 걸려도 양해 부탁드려요.
+
+## Q8. 다음 모임 공지는 언제 하나요?
+
+모임은 발표자들을 모두 섭외한 후 날짜가 결정되기 때문에 상황에 따라 다르지만 보통 모임 3주 전에는 말씀을 드립니다. 카카오톡 공지 채널에 가장 먼저 모임 소식을 공유하니 참고 바랍니다.
 
   </div>
 </details>
